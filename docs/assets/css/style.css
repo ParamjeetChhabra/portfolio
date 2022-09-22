@@ -437,8 +437,15 @@ section {
   font-family: "Poppins", sans-serif;
   color: #050d18;
 }
-
-.skills .progress .skill .val {
+.skills .progress .tech-desc {
+    font-weight: 100;
+    padding: 0;
+    line-height: 15px;
+    margin-top: 5px;
+    text-transform: none;
+    padding-right: 30px;
+}
+.skills .progress .tech-desc .val {
   float: right;
   font-style: normal;
 }
